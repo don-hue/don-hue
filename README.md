@@ -1,6 +1,6 @@
 ### Hi there. I'm Dmitrij 👋
 
-Here are some ideas to get you started:
+Some Short Intro: 
 
 - :sparkler: I love to smooth Websites and Food :pretzel: 
 - 🔭 I’m currently working on Web Dev Skills
