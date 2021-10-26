@@ -9,8 +9,16 @@ Here are some ideas to get you started:
 - 😄 People think I'm a :bear: :honey_pot:
 
 
-# Short Bio 
+## Short Bio 
 
-I studied Chemistry (M.Sc) and decided to switch professions because apparently you can't have a mobile Laboratory 🤌
+ - Chemistry (M.Sc) in Bio-Polymers 👨‍🔬 (2019)
+ - Sales Manager 🏭 for Raw Materials 
+ - decided to switch professions because apparently you can't have a mobile Laboratory 🤌
+ 
 
-I absolutely fall in love with Web Development, thus pushing my skills on a Daily Basis 
+I absolutely fall in love with Web Development, thus pushing my skills on a Daily Basis. Currently, I have finished my **official React JS Certificate**.
+
+## Future Skills
+- Node JS with Express Libary
+- React Native for Cross Plattform Development
+- Three JS and WebGL because I love smooth animations and 3D Web 💪
