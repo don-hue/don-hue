@@ -3,6 +3,7 @@
 Some Short Intro: 
 
 - :sparkler: I love to smooth Websites and Food :pretzel: 
+- 🎵 Techno all the Way
 - 🔭 I’m currently working on Web Dev Skills
 - 🌱 I’m currently learning NodeJS
 -  :hammer_and_wrench: I'm want to learn React Native and Three.JS
