@@ -15,6 +15,7 @@ Some Short Intro:
  - Chemistry (M.Sc) in Bio-Polymers 👨‍🔬 (2019)
  - Sales Manager 🏭 for Raw Materials 
  - decided to switch professions because apparently you can't have a mobile Laboratory 🤌
+ - Finished my React-Certificate on Oct-2021
  
 
 I absolutely fall in love with Web Development, thus pushing my skills on a Daily Basis. Currently, I have finished my **official React JS Certificate**.
