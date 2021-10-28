@@ -13,7 +13,7 @@ Some Short Intro:
 ## Short Bio 
 
  - Chemistry (M.Sc) in Bio-Polymers 👨‍🔬 (2019)
- - Sales Manager 🏭 for Raw Materials 
+ - Sales Manager 🏭 for Raw Materials (2019 -2020)
  - decided to switch professions because apparently you can't have a mobile Laboratory 🤌
  - Finished my React-Certificate on Oct-2021
  
