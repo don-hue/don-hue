@@ -20,7 +20,10 @@ Some Short Intro:
 
 I absolutely fall in love with Web Development, thus pushing my skills on a Daily Basis. Currently, I have finished my **official React JS Certificate**.
 
+## Current Skills in Progress
+- NodeJS with Express-Libary
+- Jade/Pug :pig_nose:
+
 ## Future Skills
-- Node JS with Express Libary
 - React Native for Cross Plattform Development
 - Three JS and WebGL because I love smooth animations and 3D Web 💪
