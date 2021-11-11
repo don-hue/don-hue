@@ -2,7 +2,7 @@
 
 Some Short Intro: 
 
-- :sparkler: I love to smooth Websites and Food :pretzel: 
+- :sparkler: I love to make smooth Websites and to eat good Food :pretzel: 
 - 🎵 Techno all the Way
 - 🔭 I’m currently working on Web Dev Skills
 - 🌱 I’m currently learning NodeJS
