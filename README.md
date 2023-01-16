@@ -14,7 +14,6 @@ Some Short Intro:
  - Sales Manager 🏭 for Raw Materials (2019 -2020)
  - decided to switch professions because apparently you can't have a mobile Laboratory
  - Finished my React-Certificate on Oct-2021
- 
+ - Working as Fullstack Mobile/Web Developer
 
-I absolutely fall in love with Web Development, thus pushing my skills on a Daily Basis. Currently, I have finished my **official React JS Certificate**.
 
