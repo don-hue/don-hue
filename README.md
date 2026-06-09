@@ -14,6 +14,6 @@ Some Short Intro:
  - Sales Manager 🏭 for Raw Materials (2019 -2020)
  - decided to switch professions because apparently you can't have a mobile Laboratory
  - Finished my React-Certificate on Oct-2021
- - Working as Fullstack Mobile/Web Developer
+ - Working as Fullstack Developer
 
 
